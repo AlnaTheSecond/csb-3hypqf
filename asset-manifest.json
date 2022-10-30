@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alnathesecond.github.io/csb-3hypqf/static/css/main.afd2356e.chunk.css",
+    "main.js": "https://alnathesecond.github.io/csb-3hypqf/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://alnathesecond.github.io/csb-3hypqf/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://alnathesecond.github.io/csb-3hypqf/static/js/runtime-main.97b4b74b.js",
+    "runtime-main.js.map": "https://alnathesecond.github.io/csb-3hypqf/static/js/runtime-main.97b4b74b.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://alnathesecond.github.io/csb-3hypqf/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://alnathesecond.github.io/csb-3hypqf/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://alnathesecond.github.io/csb-3hypqf/index.html",
+    "static/css/main.afd2356e.chunk.css.map": "https://alnathesecond.github.io/csb-3hypqf/static/css/main.afd2356e.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://alnathesecond.github.io/csb-3hypqf/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97b4b74b.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.afd2356e.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
